@@ -1,9 +1,9 @@
 # 📖💻 Biblie + Tehnologie
 
-Materialele publice ale cursului **„Credință & Tehnologie”** pentru preadolescenți (clasele 5–8):
-o seară la două săptămâni, în care o poveste sau un principiu biblic se întâlnește cu un concept
-din tehnologie. Învățăm să discernem, să evaluăm și să folosim tehnologia într-un mod sănătos,
-care Îl onorează pe Dumnezeu.
+Materialele publice ale cursului **„Credință & Tehnologie”** pentru preadolescenți: 
+în care o poveste sau un principiu biblic se întâlnește cu un concept
+din tehnologie. **Învățăm să discernem**, să evaluăm și să folosim tehnologia într-un mod sănătos,
+care **Îl onorează pe Dumnezeu**.
 
 🌐 **Site:** [nmatei.github.io/bible-tech](https://nmatei.github.io/bible-tech/)
 
