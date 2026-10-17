@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#10131a"/>
+  <!-- carte deschisă -->
+  <path d="M4 9c4-1.6 8-1.6 12 .8v15c-4-2.4-8-2.4-12-.8z" fill="#ffd84d"/>
+  <path d="M28 9c-4-1.6-8-1.6-12 .8v15c4-2.4 8-2.4 12-.8z" fill="#f2c200"/>
+  <!-- 1 și 0 pe pagini -->
+  <rect x="8.6" y="12.5" width="2" height="7.5" rx="1" fill="#10131a"/>
+  <ellipse cx="22" cy="16.3" rx="2.4" ry="3.8" fill="none" stroke="#10131a" stroke-width="1.9"/>
+</svg>

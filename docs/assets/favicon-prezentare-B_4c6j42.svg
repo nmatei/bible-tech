@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#10131a"/>
+  <!-- ecran -->
+  <rect x="4" y="6" width="24" height="16" rx="2.5" fill="#1a1f2b" stroke="#ffd84d" stroke-width="2"/>
+  <rect x="13" y="24" width="6" height="2" fill="#ffd84d"/>
+  <rect x="10" y="26" width="12" height="2" rx="1" fill="#ffd84d"/>
+  <!-- 3 becuri pe ecran -->
+  <circle cx="10" cy="14" r="2.6" fill="#e23b3b"/>
+  <circle cx="16" cy="14" r="2.6" fill="#59607a"/>
+  <circle cx="22" cy="14" r="2.6" fill="#2f6fdf"/>
+</svg>
