@@ -1,0 +1,14 @@
+{
+  "name": "bible-tech",
+  "version": "1.0.0",
+  "description": "Biblie + Tehnologie – materialele publice ale lecțiilor (GitHub Pages din docs/)",
+  "private": true,
+  "scripts": {
+    "start": "serve docs --listen 3000"
+  },
+  "author": "Nicolae Matei",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}
