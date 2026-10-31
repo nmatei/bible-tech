@@ -1,0 +1,1 @@
+function e(e,t){try{return{...t,...JSON.parse(localStorage.getItem(e)||`{}`)}}catch{return{...t}}}function t(e,t){try{localStorage.setItem(e,JSON.stringify(t))}catch{}}export{t as n,e as t};
